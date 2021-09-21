@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: whitesmoke;
+    justify-content: center;
+}
+.container{
+    min-width: 400px;
+}
+#head{
+    font-size: 2.4rem;
+    margin-top: 0.2cm;
+    margin-bottom: 1cm;
+}
+#speaks{
+    color: green;
+}
+#img{
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+button{
+    margin-top: 10px;
+    padding: 0.25rem 0.49rem;
+    justify-content: center;
+}
+button:hover{
+    background-color:#b8860b;
+    color: white;
+}
+#output{
+    height: 3cm;
+    width: 17cm;
+    margin:auto;
+    border: 2px solid black;
+    margin-top: 0.8rem;
+}
+textarea{
+    font-weight: bold;
+    font-size: large;
+}
